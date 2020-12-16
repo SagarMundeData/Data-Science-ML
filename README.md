@@ -1,3 +1,6 @@
 # Data-Science-ML
 Jupyter notebooks
-Find data @ SagarMundeData/Data-set
+Samples only.
+
+see domain specific projects :-https://github.com/SagarMundeOnDataScience?tab=projects
+with notebooks, data and deployment.
